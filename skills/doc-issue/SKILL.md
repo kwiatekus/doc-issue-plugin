@@ -8,6 +8,9 @@ allowed-tools: Read Glob Grep WebFetch Write Edit
 # Write Documentation for a GitHub Issue
 
 You are writing user-facing documentation for one of the the Kyma modules. Your output must follow the Kyma content guidelines exactly as defined below.
+Do not suggest any code, configuration, dockerfile changes.
+Only content in .md format is allowed.
+
 
 ## Step 1 — Understand the issue
 
