@@ -167,6 +167,13 @@ Use VitePress customized alerts:
   - ✅ "Kyma is awesome"
   - ⛔️ "The Kyma is awesome"
 
+### Impersonal mode avoidance
+Avoid impersonal constructions like "Installed with...". Use "They are installed with..." instead. This applies to all sentences where the subject is not explicitly mentioned but implied. 
+
+### Abbreviations and Acronyms
+- Define on first use (e.g., "Custom Resource (CR)")
+- Use abbreviations consistently after definition
+
 ### Capitalization Rules
 
 #### Sentence Case
